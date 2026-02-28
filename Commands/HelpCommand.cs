@@ -1,0 +1,19 @@
+﻿using Telegram.Bot;
+using Telegram.Bot.Types;
+
+namespace ScheduleBot.Commands;
+
+public class HelpCommand : ICommand
+{
+    public async Task ExecuteAsync(Update update, ITelegramBotClient botClient, CancellationToken ct)
+    {
+        var chatId = update.Message!.Chat.Id;
+        string text = "Доступные команды:\n" +
+        "/start - приветствие\n" +
+        "/help  - помощь\n" +
+        "/week (класс) - расписание за неделю \n " +
+        "/tomorrow (класс) - расписание на завтра \n";
+
+        await botClient.SendTextMessageAsync(chatId, text, cancellationToken: ct);
+    }
+}

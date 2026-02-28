@@ -1,0 +1,159 @@
+{
+  "Groups": [
+    {
+      "Group": "9A",
+      "Days": [
+        {
+          "Day": "Monday",
+          "Lessons": [
+            {
+              "Time": "09:00",
+              "Subject": "Math",
+              "Teacher": "Ivanov"
+            },
+            {
+              "Time": "10:00",
+              "Subject": "English Language",
+              "Teacher": "Gafarova"
+            },
+            {
+              "Time": "11:00",
+              "Subject": "Chemistry",
+              "Teacher": "Pankratova"
+            },
+            {
+              "Time": "12:00",
+              "Subject": "Biology",
+              "Teacher": "Plaxina"
+            },
+            {
+              "Time": "13:00",
+              "Subject": "Social studies",
+              "Teacher": "Uvarova"
+            }
+          ]
+        },
+        {
+          "Day": "Tuesday",
+          "Lessons": [
+            {
+              "Time": "09:00",
+              "Subject": "Physics",
+              "Teacher": "Petrova"
+            },
+            {
+              "Time": "10:00",
+              "Subject": "Geography",
+              "Teacher": "Gadjiev"
+            },
+            {
+              "Time": "11:00",
+              "Subject": "IT lesson",
+              "Teacher": "Patokina"
+            },
+            {
+              "Time": "12:00",
+              "Subject": "Biology",
+              "Teacher": "Ponomarev"
+            },
+            {
+              "Time": "13:00",
+              "Subject": "Social studies",
+              "Teacher": "Shilova"
+            }
+          ]
+        },
+        {
+          "Day": "Wednesday",
+          "Lessons": [
+            {
+              "Time": "09:00",
+              "Subject": "Russian language",
+              "Teacher": "Dianova"
+            },
+            {
+              "Time": "10:00",
+              "Subject": "Biology",
+              "Teacher": "Taksheeva"
+            },
+            {
+              "Time": "11:00",
+              "Subject": "IT lesson",
+              "Teacher": "Pankova"
+            },
+            {
+              "Time": "12:00",
+              "Subject": "Art lesson",
+              "Teacher": "Drozdov"
+            },
+            {
+              "Time": "13:00",
+              "Subject": "Sports",
+              "Teacher": "Permilovsky"
+            }
+          ]
+        },
+        {
+          "Day": "Thursday",
+          "Lessons": [
+            {
+              "Time": "09:00",
+              "Subject": "Music",
+              "Teacher": " Baykalova"
+            },
+            {
+              "Time": "10:00",
+              "Subject": "Astronomy",
+              "Teacher": "Tokman"
+            },
+            {
+              "Time": "11:00",
+              "Subject": "Probability and statistics",
+              "Teacher": "Remizov"
+            },
+            {
+              "Time": "12:00",
+              "Subject": "Financial literacy",
+              "Teacher": "Igumnov"
+            },
+            {
+              "Time": "13:00",
+              "Subject": "Literature",
+              "Teacher": "Lykinskiy"
+            }
+          ]
+        },
+        {
+          "Day": "Friday",
+          "Lessons": [
+            {
+              "Time": "09:00",
+              "Subject": "History",
+              "Teacher": "Vasiluk"
+            },
+            {
+              "Time": "10:00",
+              "Subject": "Sports",
+              "Teacher": "Smirnov"
+            },
+            {
+              "Time": "11:00",
+              "Subject": "Physics",
+              "Teacher": "Rezviy"
+            },
+            {
+              "Time": "12:00",
+              "Subject": "Math",
+              "Teacher": "Loxova"
+            },
+            {
+              "Time": "13:00",
+              "Subject": "Astronomy",
+              "Teacher": "Kikalo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
